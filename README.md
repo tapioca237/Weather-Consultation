@@ -10,5 +10,3 @@ A web application that displays real-time weather for cities using the OpenWeath
 - Dynamic display with smooth animations  
 - Mobile-friendly responsive design  
 
-## 📷 Preview  
-![Screenshot 2025-03-26 114829](https://github.com/user-attachments/assets/b160aaa3-26fa-42a3-a0bc-e4c2fc39b18b)
