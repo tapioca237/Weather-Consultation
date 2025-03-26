@@ -1,8 +1,4 @@
 A web application that displays real-time weather for cities using the OpenWeather API.  
-
-## 🚀 Live Demo  
-🔗 [Try here](https://tapioca237.github.io/Weather-Consultation/)  
-
 ## 🛠️ Technologies Used  
 ✅ **HTML, CSS** (Responsive design and animations)  
 ✅ **JavaScript, jQuery** (AJAX requests)  
