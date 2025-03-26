@@ -1,7 +1,7 @@
 A web application that displays real-time weather for cities using the OpenWeather API.  
 
 ## 🚀 Live Demo  
-🔗 [Try the app here](https://YOUR_GITHUB_USERNAME.github.io/Weather-Consultation/)  
+🔗 [Try here](https://YOUR_GITHUB_USERNAME.github.io/Weather-Consultation/)  
 
 ## 🛠️ Technologies Used  
 ✅ **HTML, CSS** (Responsive design and animations)  
