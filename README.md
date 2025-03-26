@@ -1,3 +1,4 @@
+
 A web application that displays real-time weather for cities using the OpenWeather API.  
 ## 🛠️ Technologies Used  
 ✅ **HTML, CSS** (Responsive design and animations)  
